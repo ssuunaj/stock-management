@@ -1,0 +1,3 @@
+export const LOGOUT_THREAD = "LOGOUT_THREAD";
+export const ADD_CATEGORY = "ADD_CATEGORY ";
+export const GET_ALL_CATEGORIES = "GET_ALL_CATEGORIES";
